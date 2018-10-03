@@ -87,7 +87,7 @@ You team is not the team at Netflix.
 @css[template-note](Or Uber, Twitter, Amazon. Probably. I don't know your life.)
 
 ---?image=template/img/bg/blue.jpg&position=right&size=50% 100%
-@title[Heading + List Body]
+@title[Death to IaaS]
 
 @snap[west split-screen-heading text-blue span-50]
 PaaS Good
@@ -98,12 +98,21 @@ IaaS Bad
 @snapend
 
 ---?image=template/img/grass.png&position=bottom&size=100% 30%
-@title[Positioned Background]
+@title[Don't Spend Monies]
 
-## Architecture Should Not Mean @color[green](@size[2.2em](Cost))
+## Your Architecture Decisions Should Not Affect Your @color[green](Cost)
 
 @snap[north-east template-note text-gray]
 If each microservice costs money, you're going to have a bad time.
+@snapend
+
+---
+@title[Old Problems are New]
+
+## Unintentional Fan Out is the New N+1
+
+@snap[north-east template-note text-gray]
+Guess who's back? Back again.
 @snapend
 
 
