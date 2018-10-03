@@ -40,7 +40,7 @@ The fat guy at the front of the room who won't shut up.
 Microservices are the best.
 @snapend
 
-@snap[south-west list-content-concise span-100]
+@snap[west list-content-concise span-100]
 @ol
 - Microservices have no known problems @fa[smile-o]
 - You get 3% smarter when you say _microservice_.
@@ -126,10 +126,6 @@ Duplicate All the Data!
 ![DUPLICATE](template/img/allthethings.gif)
 @snapend
 
-@snap[south-west template-note text-gray]
-Side-by-side inline images template.
-@snapend
-
 ---?color=linear-gradient(to top, #ffb347, #ffcc33)
 @title[Observability]
 
@@ -168,7 +164,7 @@ Ask Away.
 @snap[west contact-links]
 @css[contact-name](Jonathan Barket)<br>
 <a href="https://twitter.com/jbarket">
-@fa[twitter-square pad-right-icon]@css[twitter-handle](@gitpitch)
+@fa[twitter-square pad-right-icon]@css[twitter-handle](@jbarket)
 </a><br>
 <a href="https://github.com/jbarket/microservices-hurt">
 @fa[github-square pad-right-icon]@css[git-handle](jbarket)
