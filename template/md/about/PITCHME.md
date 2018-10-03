@@ -10,8 +10,11 @@ Jonathan Barket
 @snapend
 
 @snap[west about-bio-details span-60]
-Me. Right here. Right now.
+Software Architect at <b>NIC</b>.
 <br><br>
-Inspired by Babbage’s Analytical Engine she imagined the modern-day, general-purpose computer back in 1843.<br><br>Ada is now recognized as the first computer programmer.
+Evangelist for all things that are too new to have documentation.
+<br><br>
+If you're still lost, I'm the fat guy at the front of the room who won't shut up.
+
 @snapend
 

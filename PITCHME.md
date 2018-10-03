@@ -1,13 +1,17 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?color=linear-gradient(to right, #24bfbf, #355af0)
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-GitPitch<br>*The Template*
+Microservices Hurt
+<br>
+*But I Like It*
 @snapend
 
 @snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
+Jonathan Barket
 @snapend
+
+---?include=template/md/about/PITCHME.md
 
 ---
 @title[Slide Markdown]
@@ -49,7 +53,6 @@ For the best viewing experience, press F for fullscreen.
 
 ---?include=template/md/announcement/PITCHME.md
 
----?include=template/md/about/PITCHME.md
 
 ---?include=template/md/wrap-up/PITCHME.md
 
