@@ -11,19 +11,56 @@ Microservices Hurt
 Jonathan Barket
 @snapend
 
----?include=template/md/about/PITCHME.md
+---
+@title[Who's the Fat Guy?]
+
+@snap[north-west bio-name]
+Who am I?
+@snapend
+
+@snap[east span-40]
+![GEEK](template/img/geek.gif)
+@snapend
+
+@snap[west about-bio-details span-60]
+Jonathan Barket
+<br><br>
+Software Architect at <b>NIC</b>.
+<br><br>
+Evangelist for all things that are too new to have documentation.
+<br><br>
+The fat guy at the front of the room who won't shut up.
+
+@snapend
 
 ---
 @title[Slide Markdown]
 
-### Microservices are the answer to all of your problems.
+### Microservices are the best.
 
 <br><br>
 
 1. Microservices have no known problems @fa[smile-o]
+1. You get 3% smarter when you say _microservice_.
 1. Presenters at conferences can't lie. It's the law.
-1. You get 3% smarter every time you say _microservices_.
-1. You will have a billion dollar valuation in my heart for using them.
+
+---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+@title[Heading + List Body]
+
+@snap[west split-screen-heading text-orange span-50]
+P is for _Problems_, Not Patterns
+@snapend
+
+@snap[east text-white span-45]
+@ol[split-screen-list](false)
+- Service Discovery
+- Distributed Configuration
+@olend
+@snapend
+
+@snap[south-west template-note text-gray]
+Split-screen heading and list body template.
+@snapend
 
 ---
 @title[Tip! Fullscreen]
