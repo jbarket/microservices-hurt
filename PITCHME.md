@@ -97,6 +97,16 @@ PaaS Good
 IaaS Bad
 @snapend
 
+---?image=template/img/grass.png&position=bottom&size=100% 30%
+@title[Positioned Background]
+
+## Architecture Should Not Mean @color[green](@size[2.2em](Cost))
+
+@snap[north-east template-note text-gray]
+If each microservice costs money, you're going to have a bad time.
+@snapend
+
+
 ---?include=template/md/split-screen/PITCHME.md
 
 ---?include=template/md/sidebar/PITCHME.md
