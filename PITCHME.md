@@ -115,11 +115,11 @@ If each microservice costs money, you're going to have a bad time.
 Guess who's back? Back again. Damnit.
 @snapend
 
-+++
-@title[Side-by-Side Images]
+---
+@title[Duplicate!]
 
 @snap[west span-50 split-screen-heading text-blue]
-Duplicate All the Things!
+Duplicate All the Data!
 @snapend
 
 @snap[east span-50]
@@ -141,35 +141,48 @@ OBSERVE
 Or else!
 @snapend
 
-
----?include=template/md/split-screen/PITCHME.md
-
----?include=template/md/sidebar/PITCHME.md
-
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/code-presenting/PITCHME.md
-
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
-
----?include=template/md/wrap-up/PITCHME.md
-
 ---
 @title[The Template Docs]
 
 @snap[west headline span-100]
-GitPitch<br>*The Template @css[text-orange](End) ;)*
+Screw Up.
+<br>
+*That's the whole point.*
 @snapend
 
 @snap[south docslink span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
+You can just do it again.
 @snapend
+
+---?image=template/img/questions-2.png&size=80% auto
+@title[Questions]
+
+@snap[south-west template-note text-gray]
+Ask Away.
+@snapend
+
+
+---
+@title[Get In Touch]
+
+@snap[west contact-links]
+@css[contact-name](Jonathan Barket)<br>
+<a href="https://twitter.com/jbarket">
+@fa[twitter-square pad-right-icon]@css[twitter-handle](@gitpitch)
+</a><br>
+<a href="https://github.com/jbarket/microservices-hurt">
+@fa[github-square pad-right-icon]@css[git-handle](jbarket)
+</a><br>
+<a href="mailto:jbarket@sleepunit.com">
+@fa[envelope-o pad-right-icon]@css[contact-email](jbarket@sleepunit.com)
+</a>
+@snapend
+
+@snap[east span-50]
+![](template/img/contact-1.png)
+@snapend
+
+@snap[north-east template-note text-gray]
+Talk nerdy to me.
+@snapend
+
