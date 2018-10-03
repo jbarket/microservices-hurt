@@ -36,13 +36,18 @@ The fat guy at the front of the room who won't shut up.
 ---
 @title[Slide Markdown]
 
-### Microservices are the best.
+@snap[north-west]
+Microservices are the best.
+@snapend
 
+@snap[south-west list-content-concise span-100]
+@ol
+- Microservices have no known problems @fa[smile-o]
+- You get 3% smarter when you say _microservice_.
+- Presenters at conferences can't lie. It's the law.
+@olend
 <br><br>
-
-1. Microservices have no known problems @fa[smile-o]
-1. You get 3% smarter when you say _microservice_.
-1. Presenters at conferences can't lie. It's the law.
+@snapend
 
 ---?image=template/img/bg/blue.jpg&position=right&size=50% 100%
 @title[Heading + List Body]
@@ -78,7 +83,19 @@ Oh, snap!
 ---
 @title[You are not netflix]
 You team is not the team at Netflix.
+<br>
 @css[template-note](Or Uber, Twitter, Amazon. Probably. I don't know your life.)
+
+---?image=template/img/bg/blue.jpg&position=right&size=50% 100%
+@title[Heading + List Body]
+
+@snap[west split-screen-heading text-blue span-50]
+PaaS Good
+@snapend
+
+@snap[east text-white span-45]
+IaaS Bad
+@snapend
 
 ---?include=template/md/split-screen/PITCHME.md
 
