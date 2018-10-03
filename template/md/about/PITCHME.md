@@ -2,7 +2,7 @@
 @title[Who's the Fat Guy?]
 
 @snap[north-west bio-name]
-Jonathan Barket
+Who am I?
 @snapend
 
 @snap[east span-40]
@@ -10,11 +10,13 @@ Jonathan Barket
 @snapend
 
 @snap[west about-bio-details span-60]
+Jonathan Barket
+<br><br>
 Software Architect at <b>NIC</b>.
 <br><br>
 Evangelist for all things that are too new to have documentation.
 <br><br>
-If you're still lost, I'm the fat guy at the front of the room who won't shut up.
+The fat guy at the front of the room who won't shut up.
 
 @snapend
 

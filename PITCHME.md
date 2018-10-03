@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to right, #24bfbf, #355af0)
 @title[Introduction]
 
-@snap[west headline text-white span-80]
+@snap[west headline text-white span-90]
 Microservices Hurt
 <br>
 *But I Like It*
@@ -16,16 +16,14 @@ Jonathan Barket
 ---
 @title[Slide Markdown]
 
-### Each slide in this presentation is provided as a *template*.
+### Microservices are the answer to all of your problems.
 
 <br><br>
 
-1. Select only the slide templates that you need.
-1. Customize the template _markdown content_.
-1. Optionally, override template _styles_ and _settings_.
-1. Then present and publish with GitPitch @fa[smile-o]
-<br><br>
-
+1. Microservices have no known problems @fa[smile-o]
+1. Presenters at conferences can't lie. It's the law.
+1. You get 3% smarter every time you say _microservices_.
+1. You will have a billion dollar valuation in my heart for using them.
 
 ---
 @title[Tip! Fullscreen]
