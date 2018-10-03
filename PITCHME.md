@@ -44,22 +44,20 @@ The fat guy at the front of the room who won't shut up.
 1. You get 3% smarter when you say _microservice_.
 1. Presenters at conferences can't lie. It's the law.
 
----?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+---?image=template/img/bg/blue.jpg&position=right&size=50% 100%
 @title[Heading + List Body]
 
-@snap[west split-screen-heading text-orange span-50]
+@snap[west split-screen-heading text-blue span-50]
 P is for _Problems_, Not Patterns
 @snapend
 
 @snap[east text-white span-45]
 @ol[split-screen-list](false)
 - Service Discovery
-- Distributed Configuration
+- External Configuration
+- Communication
+- "Stuff" and "Things"
 @olend
-@snapend
-
-@snap[south-west template-note text-gray]
-Split-screen heading and list body template.
 @snapend
 
 ---
