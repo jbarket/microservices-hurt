@@ -61,12 +61,24 @@ P is for _Problems_, Not Patterns
 @snapend
 
 ---
-@title[Tip! Fullscreen]
+@title[Spoiler Alert]
 
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
+@snap[north announce-big-news]
+SPOILER
+@snapend
+
+@snap[south announce-big-news text-blue]
+ALERT
+@snapend
+
+@snap[south-west template-note text-gray]
+Oh, snap!
+@snapend
+
+---
+@title[You are not netflix]
+You team is not the team at Netflix.
+@css[template-note](Or Uber, Twitter, Amazon. Probably. I don't know your life.)
 
 ---?include=template/md/split-screen/PITCHME.md
 
