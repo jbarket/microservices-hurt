@@ -109,10 +109,36 @@ If each microservice costs money, you're going to have a bad time.
 ---
 @title[Old Problems are New]
 
-## Unintentional Fan Out is the New N+1
+## Unintentional @color[blue](Fan Out) is the New N+1
 
 @snap[north-east template-note text-gray]
-Guess who's back? Back again.
+Guess who's back? Back again. Damnit.
+@snapend
+
++++
+@title[Side-by-Side Images]
+
+@snap[west span-50 split-screen-heading text-blue]
+Duplicate All the Things!
+@snapend
+
+@snap[east span-50]
+![DUPLICATE](template/img/allthethings.gif)
+@snapend
+
+@snap[south-west template-note text-gray]
+Side-by-side inline images template.
+@snapend
+
+---?color=linear-gradient(to top, #ffb347, #ffcc33)
+@title[Observability]
+
+@snap[midpoint announce-coming-soon text-white]
+OBSERVE
+@snapend
+
+@snap[south-west template-note text-white]
+Or else!
 @snapend
 
 
