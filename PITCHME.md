@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to right, #24bfbf, #355af0)
 @title[Introduction]
 
-@snap[west headline text-white span-70]
+@snap[west headline text-white span-80]
 Microservices Hurt
 <br>
 *But I Like It*
