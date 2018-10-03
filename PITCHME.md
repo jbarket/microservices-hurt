@@ -93,7 +93,7 @@ You team is not the team at Netflix.
 PaaS Good
 @snapend
 
-@snap[east text-white span-45]
+@snap[east split-screen-heading text-white span-50]
 IaaS Bad
 @snapend
 
